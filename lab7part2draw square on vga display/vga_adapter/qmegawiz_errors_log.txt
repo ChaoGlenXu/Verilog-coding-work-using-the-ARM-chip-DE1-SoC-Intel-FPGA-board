@@ -1,0 +1,19 @@
+
+
+W:/241work/lab7/lab7part2/vga_adapter/vga_pll.v
+
+Nov 04 04PM:16:32>: Error in CNX file format.
+
+Error messages are listed in file
+W:/241work/lab7/lab7part2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+W:/241work/lab7/lab7part2/vga_adapter/vga_pll.v
+
+Nov 04 04PM:45:39>: Error in CNX file format.
+
+Error messages are listed in file
+W:/241work/lab7/lab7part2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
