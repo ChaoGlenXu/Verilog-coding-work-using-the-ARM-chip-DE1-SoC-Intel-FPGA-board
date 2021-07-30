@@ -1,6 +1,6 @@
 
 # ECE241-Digital-System
-lab work for the verilog course called Digital System (ECE241) 
+Lab work for the verilog course called Digital System (ECE241) 
 
 I used this ARM chip Intel FPGA board to test my code to complete all these Verilog coding assginments.
 This board is the one in the picture below:
